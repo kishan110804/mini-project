@@ -64,3 +64,10 @@ Additional files manage routing, layouts, and app configuration.
 * *AsyncStorage* — Local storage of user sessions and game data
 * *Expo Router* — Simplified file-based navigation
 * *Lucide React Native* — Modern iconography for a polished UI
+![image](https://github.com/user-attachments/assets/dcf2aaad-ffc4-4961-ba97-c98a1c77e54f)
+![image](https://github.com/user-attachments/assets/b03beb4b-f4c6-474a-ab49-5e81fb7d44b3)
+![image](https://github.com/user-attachments/assets/1ec410a4-dff1-41f4-9197-ef5fb1d9f686)
+![image](https://github.com/user-attachments/assets/b3f42abc-7938-4dff-a8df-ead2e814f61f)
+
+
+
